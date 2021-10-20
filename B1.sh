@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-<<CLOWNTERS
- #CLOWNTERS
+<<Coronel-Painel
+ #Coronel-Painel
  #--------------------------------------------------------
  # Name script: Painel Coronel-Script                       |
  #--------------------------------------------------------
@@ -19,8 +19,6 @@
  #--------------------------------------------------------
  # Use: bash A1.sh                                       |
  #--------------------------------------------------------
- CoronelPainel
-CoronelPainel
 
 source .functions/.variables.sh
 source .functions/.functions.sh
